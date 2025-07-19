@@ -482,3 +482,24 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# Visual Studio Code workspace storage
+.vscode/workspaceStorage/
+
+# db files
+*.db
+*.sqlite
+*.sqlite3
+
+# Migrations files
+Migrations/
+
+# EF Core migrations
+MigrationsSnapshot/
+
+# EF Core migrations snapshot
+*.csproj.user
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+*.csproj.nuget.dgspec.json
+*.csproj.nuget.cache
