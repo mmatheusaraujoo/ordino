@@ -503,3 +503,9 @@ MigrationsSnapshot/
 *.csproj.nuget.g.targets
 *.csproj.nuget.dgspec.json
 *.csproj.nuget.cache
+
+# database files
+*.mdf
+*.ldf
+*.ndf
+*.db-*
